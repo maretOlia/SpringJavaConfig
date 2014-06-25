@@ -1,0 +1,23 @@
+
+label {
+      display: block;
+      position:relative;
+}
+
+div {
+      text-indent:15px;
+}
+
+
+label span {
+    font-weight:normal;
+    font-size:14px;
+    font-family:"Arial";
+    color:#696969;
+    position:absolute;
+    left: 5px;
+}
+
+
+label input,label select {
+    margin-left: 120px;
